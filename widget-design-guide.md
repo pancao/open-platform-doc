@@ -77,34 +77,6 @@ description: >-
 
 ### 
 
-### Web 表现优化
-
-可以使用以下样式优化 Web 的体验。
-
-```css
-        body {
-            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-        }
-
-        input[type="submit"], 
-          input[type="reset"], 
-          input[type="button"], 
-          button {
-            -webkit-appearance: none;
-        }
-
-        input, button, select, textarea {
-            outline: none;
-            border-radius: 0;
-        }
-
-        textarea {
-            resize: none
-        }
-```
-
-### 
-
 ### 插件区建议开发方向
 
 * **简单功能类。**提供轻量、有及时反馈的小功能。
