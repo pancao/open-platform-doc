@@ -1,4 +1,4 @@
-# Initial page
+# 关于即刻开放平台
 
 ## Getting Super Powers
 
