@@ -12,7 +12,7 @@
 
 ## 设计
 
-* [设计规范与组件](she-ji-zhi-nan/she-ji-gui-fan-yu-zu-jian.md)
-* [主题插件设计指南](she-ji-zhi-nan/widget-design-guide.md)
-* [即刻 Web 页设计指南](she-ji-zhi-nan/ji-ke-web-ye-she-ji-zhi-nan.md)
+* [设计规范与资源](she-ji-zhi-nan/she-ji-gui-fan-yu-zu-jian.md)
+* [设计主题插件](she-ji-zhi-nan/widget-design-guide.md)
+* [设计即刻 Web 页](she-ji-zhi-nan/ji-ke-web-ye-she-ji-zhi-nan.md)
 
