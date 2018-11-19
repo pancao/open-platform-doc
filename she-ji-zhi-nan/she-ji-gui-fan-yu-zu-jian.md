@@ -32,7 +32,7 @@ description: 这是一个初步的设计规范文件，除了中性色与
 * Para 1 可以在页面中大面积、连续使用，是页面的主要内容，Para 2 可以用于页面内的次要信息。
 * Label 1、Label 2 可以用于页面的辅助内容、超链接、说明内容等。
 
-{% file src="../.gitbook/assets/jike-style.scss" %}
+{% file src="../.gitbook/assets/jike-styles.scss" caption="Style Params" %}
 
 ## 即刻品牌素材
 
