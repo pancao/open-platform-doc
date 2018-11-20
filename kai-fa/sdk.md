@@ -2,7 +2,7 @@
 
 ####  ⚠️IMPORTANT ⚠️
 
-You need to download developer plugin while developing.
+You need to download developer plugin while developing. Link is on the way.
 
 ### Installation
 
