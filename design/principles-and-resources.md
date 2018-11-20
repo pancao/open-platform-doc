@@ -30,6 +30,19 @@
 
 {% file src="../.gitbook/assets/jike-styles.scss" caption="Style Params" %}
 
+## 清除部分 CSS 样式
+```css
+body {
+    -webkit-tap-highlight-color: transparent;
+}
+
+input, button, textarea {
+    outline: none;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+```
+
 ## 即刻品牌素材
 
 ![](../.gitbook/assets/image%20%288%29.png)
