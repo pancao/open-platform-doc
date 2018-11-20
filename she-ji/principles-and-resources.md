@@ -28,9 +28,10 @@
 * Para 1 可以在页面中大面积、连续使用，是页面的主要内容，Para 2 可以用于页面内的次要信息。
 * Label 1、Label 2 可以用于页面的辅助内容、超链接、说明内容等。
 
-{% file src="../.gitbook/assets/jike-styles.scss" caption="Style Params" %}
+{% file src="../.gitbook/assets/jike-styles.scss" %}
 
 ## 清除部分 CSS 样式
+
 ```css
 body {
     -webkit-tap-highlight-color: transparent;
@@ -48,6 +49,4 @@ input, button, textarea {
 ![](../.gitbook/assets/image%20%288%29.png)
 
 {% file src="../.gitbook/assets/logo.sketch" %}
-
-
 

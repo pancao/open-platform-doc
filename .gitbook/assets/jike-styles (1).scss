@@ -21,8 +21,6 @@ $color-jike-red: #e4593e;
     Font Styles:
 */
 
-
-/* Global font style */
 /* Heading 1 font style */
 $font-heading-1-font-size: 20px;
 $font-heading-1-line-height: normal;
@@ -31,7 +29,7 @@ $font-heading-1-color: #404040;
 $font-heading-1-letter-spacing: 0.31px;
 $font-heading-1-font-style: normal;
 $font-heading-1-font-weight: 500;
-$font-heading-1-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-heading-1-font-family: PingFang SC;
 
 @mixin font-heading-1 () {
   font-size: $font-heading-1-font-size;
@@ -52,7 +50,7 @@ $font-heading-2-color: #404040;
 $font-heading-2-letter-spacing: 0.28px;
 $font-heading-2-font-style: normal;
 $font-heading-2-font-weight: 400;
-$font-heading-2-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-heading-2-font-family: PingFang SC;
 
 @mixin font-heading-2 () {
   font-size: $font-heading-2-font-size;
@@ -73,7 +71,7 @@ $font-heading-3-color: #404040;
 $font-heading-3-letter-spacing: 0.28px;
 $font-heading-3-font-style: normal;
 $font-heading-3-font-weight: 400;
-$font-heading-3-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-heading-3-font-family: PingFang SC;
 
 @mixin font-heading-3 () {
   font-size: $font-heading-3-font-size;
@@ -94,7 +92,7 @@ $font-label-blue-color: #03a9f4;
 $font-label-blue-letter-spacing: 0.22px;
 $font-label-blue-font-style: normal;
 $font-label-blue-font-weight: 400;
-$font-label-blue-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-label-blue-font-family: PingFang SC;
 
 @mixin font-label-blue () {
   font-size: $font-label-blue-font-size;
@@ -115,7 +113,7 @@ $font-label-grey-color: #808080;
 $font-label-grey-letter-spacing: 0.22px;
 $font-label-grey-font-style: normal;
 $font-label-grey-font-weight: 400;
-$font-label-grey-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-label-grey-font-family: PingFang SC;
 
 @mixin font-label-grey () {
   font-size: $font-label-grey-font-size;
@@ -136,7 +134,7 @@ $font-para-1-color: #404040;
 $font-para-1-letter-spacing: 0.22px;
 $font-para-1-font-style: normal;
 $font-para-1-font-weight: 400;
-$font-para-1-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-para-1-font-family: PingFang SC;
 
 @mixin font-para-1 () {
   font-size: $font-para-1-font-size;
@@ -157,7 +155,7 @@ $font-para-2-color: #404040;
 $font-para-2-letter-spacing: 0.22px;
 $font-para-2-font-style: normal;
 $font-para-2-font-weight: 400;
-$font-para-2-font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+$font-para-2-font-family: PingFang SC;
 
 @mixin font-para-2 () {
   font-size: $font-para-2-font-size;

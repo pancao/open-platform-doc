@@ -1,7 +1,3 @@
----
-description: Jike Open Platfrom JavaScript SDK
----
-
 # 开发文档
 
 ### Installation
