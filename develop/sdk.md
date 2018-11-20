@@ -1,5 +1,5 @@
 ---
-description: Jike Open platfrom JavaScript SDK
+description: Jike Open Platfrom JavaScript SDK
 ---
 
 # 开发文档
