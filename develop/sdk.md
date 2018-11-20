@@ -4,10 +4,13 @@ description: Jike Open Platfrom JavaScript SDK
 
 # 开发文档
 
+### ⚠️IMPORTANT ⚠️
+You need to download developer plugin while developing.
+
 ### Installation
 
 ```bash
-npm install jike-open-js-sdk --save
+npm install @jike/open-sdk --save
 ```
 
 ### Configuration
