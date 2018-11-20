@@ -12,7 +12,7 @@ npm install jike-open-js-sdk --save
 
 ### Configuration
 
-```bash
+```javascript
 import { JikeOpenJsSDK } from 'jike-open-js-sdk'
 // FIST OF ALL: apply for your application at jike open platform.
 // replace <openAppId> with your openAppId.
@@ -29,7 +29,7 @@ const sdk = new JikeOpenJsSDK({
 
 * available version 4.15.0
 
-```text
+```javascript
 sdkInstance.getUserInfo(): Promise<UserInfo>
 ```
 
@@ -37,7 +37,7 @@ sdkInstance.getUserInfo(): Promise<UserInfo>
 
 * available version 4.15.0
 
-```text
+```javascript
 sdkInstance.getMessages(): Promise<{
   message: Array<Message>
   count: number
@@ -48,7 +48,7 @@ sdkInstance.getMessages(): Promise<{
 
 > UserInfo
 
-```bash
+```javascript
 interface UserInfo {
   user: {
     id: string,
